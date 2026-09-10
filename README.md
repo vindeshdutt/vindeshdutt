@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vindesh Dutt
 
-### Cybersecurity Student | Developer | Tech Enthusiast from Aligarh
+### Cybersecurity Student | Developer | Tech Enthusiast from Ghaziabad Modinager
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif/6man.gif">
 
